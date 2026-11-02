@@ -1,0 +1,8 @@
+Projeto Aplicado I - AV 03 (Tema 03): Construção do MVP, Parte 1
+Grupo: Otávio Modolon Neto, Thiago Neves Gomes, Lucas Antunes Severino
+
+Repositório GitHub:
+https://github.com/ModolOff/Projeto-Aplicado-I---AV2---Modelagem-e-Estruturacao-do-Banco-de-Dados
+
+Arquivos desta entrega no repositório: 04_classes.py, 05_main.py, 06_mvp_parte1.md
+Execução: python 05_main.py
